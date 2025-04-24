@@ -1,5 +1,3 @@
-// Main JavaScript file for Gift Wamukota's Portfolio Website
-
 document.addEventListener('DOMContentLoaded', function() {
     // Variables
     const header = document.getElementById('header');
